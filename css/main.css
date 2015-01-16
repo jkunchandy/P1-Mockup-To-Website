@@ -1,0 +1,53 @@
+/* Enable for testing - to view outline of user drawn divs on page*/
+* {
+   /* outline: solid red 2px;  */
+}
+
+/* Use font specified in Udacity project submission specs */
+body {
+    font: "Kalimati",Verdana, sans-serif;
+    color: #666;
+}
+
+div.box {
+    border-color: #ccc;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    margin-left: 245px;
+    margin-top: 45px;
+    font-size: 50px;
+    letter-spacing: -1px;
+    word-spacing: 2px;
+}
+
+h2 {
+    margin-top: 16px;
+    margin-bottom: 30px;
+    color: #f07C17;
+    font-size: 25px;
+   letter-spacing: 1px;
+    word-spacing: 3px;
+}
+
+
+img {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 2;
+}
+
+li {
+    line-height: 2;
+    font-size: 16px;
+}
