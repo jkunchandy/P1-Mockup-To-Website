@@ -1,0 +1,8 @@
+Resources used to complete Project 1
+
+1. CSS file validator        : http://jigsaw.w3.org/css-validator/validator
+2. HTML5 source code checker : http://validator.w3.org/check
+3. Google fonts              : http://www.google.com/fonts
+4. Bootstrap documentation   : http://getbootstrap.com/css/#grid-intro
+5. User community            : www.stackoverflow.com
+6.
