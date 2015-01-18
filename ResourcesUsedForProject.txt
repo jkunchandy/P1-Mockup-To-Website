@@ -5,4 +5,6 @@ Resources used to complete Project 1
 3. Google fonts              : http://www.google.com/fonts
 4. Bootstrap documentation   : http://getbootstrap.com/css/#grid-intro
 5. User community            : www.stackoverflow.com
-6.
+6. HTML tutorial             : http://www.w3schools.com/htmL/
+7. CSS tutorial              : http://www.w3schools.com/css/default.asp
+8. Bootstrap tutorial        : http://www.w3schools.com/bootstrap/default.asp
